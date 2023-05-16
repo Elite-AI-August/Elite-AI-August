@@ -1,30 +1,76 @@
-- 👋 Hi, I’m Elit of AI.
+<h1 align="center">Hi 👋, I'm Elit of AI</h1>
+<h3 align="center">A passionate competitive programmer from Canada</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<br>
+
 - 👀 I am Currently working as **Sr.AWS AI ML Solution Architect**.
 - 🌱 I’m currently Learning Quantum Machine learning😎.
 - 💞️ I’m looking to collaborate on the more tasks.
 - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 - ⚡ Fun fact: I love to code.
+- 📫 How to reach me: carollhwrd@gmail.com
 
-## 📫 How to reach me
-### 📧   Gmail: **carollhwrd@gmail.com**
 
-## My favorite motto
+# 💻 My SkillSet
+---
 
-When you genuinely create the best product, you’ll find out that the burden of campaigning is far lighter because the product speaks for itself.
+### Languages
 
-What was once part of your customers will become part of your army, defending your product and mission because it’s now their product and mission.
+<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
+<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" /><br/>
+<br/>
 
- I like to solve problems. My intellectual curiosity has driven me to find answers to the most pressing questions throughout my career. Whether relating to the market trend for a product or finding a rare, unique selling point for a brand, I’ve been able to quickly uncover a customer’s pain point, develop a story around a product, and generate over 47% increase in revenue for businesses.
+### Libraries
 
-I’m a highly motivated individual who is very driven to find the gap and come up with practical solutions geared toward bringing projects to life. I’ve worked extensively in various industries that include but are not limited to non-profit, for-profit, technical-savvy brands, and finance/business development, having gained experience in the following functions along the way - UI/UX Design, marketing, business analysis, operations, and advertising.
+<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/react-icon.svg" />
+<img align="left" alt="jQuery" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+<img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/redux-icon.svg" />
+<img align="left" alt="Three.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" /><br/>
+<br/>
 
-4+ years of experience working as a Growth Product Manager for top listed companies with experience in capital fundraising, investor relations, financial analysis, sales, and reporting.
+### Frameworks
 
-I like to think that it’s my real-world experience that sets me apart. These experiences give me unique insight into what people want and how to create user-focused products.
+<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
+<img align="left" alt="Node.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/django-icon.svg" /><br/>
+<br/>
 
-For a cross-functional team, great collaboration is mandatory. I exhibit emotional intelligence to help teams work well together and achieve a high-performing state.
+### Database
 
-As a leader, on a more personal level, I love building teams that are driven by the power found at the intersection of technology & marketing. My willingness to serve customers selflessly has led me to create stories and strategies to unlock new growth.
+<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/mysql-icon.svg" /><br/>
+<br/>
+
+### Tools
+
+<img align="left" alt="GIT" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/aws-icon.svg" />
+<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/docker-icon.svg" /><br/>
+
+<br/>
+
+### Others
+
+<img title="Temi Robo" align="left" alt="Temi Robo" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220040155-de098efa-a4c3-42d3-ae99-724e09360704.png" /><br /><br />
+
+### 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mightyeagle329&show_icons=true&locale=en&layout=compact&theme=onedark" alt="mightyeagle329" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mightyeagle329&show_icons=true&locale=en&theme=onedark" alt="mightyeagle329" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mightyeagle329&theme=onedark" alt="mightyeagle329" /></p>
+
+### 
+<img src="https://github-profile-trophy.vercel.app/?username=mightyeagle329&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 
    ## ⚡ Technologies I use 
 
