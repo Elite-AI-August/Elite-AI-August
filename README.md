@@ -72,7 +72,7 @@
 ### 
 <img src="https://github-profile-trophy.vercel.app/?username=Elit-AI&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 
-   ## ⚡ Technologies I use 
+   ## ⚡ Technologies I love 
 
 <div align="center">
 <table align="center">
