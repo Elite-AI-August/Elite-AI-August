@@ -8,6 +8,8 @@
 ## 📫 How to reach me
 ### 📧   Gmail: **carollhwrd@gmail.com**
 
+## My favorite motto
+
 When you genuinely create the best product, you’ll find out that the burden of campaigning is far lighter because the product speaks for itself.
 
 What was once part of your customers will become part of your army, defending your product and mission because it’s now their product and mission.
