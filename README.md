@@ -63,14 +63,14 @@
 <img title="Temi Robo" align="left" alt="Temi Robo" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220040155-de098efa-a4c3-42d3-ae99-724e09360704.png" /><br /><br />
 
 ### 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elit-AI&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Elit-AI" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elite-AI-August&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Elite-AI-August" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Elit-AI&show_icons=true&locale=en&theme=onedark" alt="Elit-AI" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Elite-AI-August&show_icons=true&locale=en&theme=onedark" alt="Elite-AI-August" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elit-AI&theme=onedark" alt="Elit-AI" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elite-AI-August&theme=onedark" alt="Elite-AI-August" /></p>
 
 ### 
-<img src="https://github-profile-trophy.vercel.app/?username=Elit-AI&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+<img src="https://github-profile-trophy.vercel.app/?username=Elite-AI-August&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 
    ## ⚡ Technologies I love 
 
