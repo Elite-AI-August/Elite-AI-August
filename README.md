@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elite of AI</h1>
 <h3 align="center">A passionate competitive programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fsound-gifs%2Fsearch%2Fartificial%2Bintelligence&psig=AOvVaw3k9hexfSft5ZmPhAQYCxqW&ust=1693074952658000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIjJk-u5-IADFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="code.gif">
 
 <br>
 
