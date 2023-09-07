@@ -9,6 +9,7 @@
 - 💞️ I’m looking to collaborate on the more tasks.
 - 🥅 2023 Goals: Explore the more and more research of Computer vision, Deep learning, NLP(ChatGPT), Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 - ⚡ Fun fact: I love to code.
+-  my name is David Sun.
 
 
 # 💻 My SkillSet
